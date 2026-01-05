@@ -2,7 +2,7 @@
 
 A modern and responsive movie discovery platform built with Next.js, TypeScript, and Framer Motion. Browse, search, and explore movies with a Netflix-like experience.
 
-[Live Demo](https://wikimovies.lukavieira.tech)
+[Live Demo](https://wikimovies.lukavieira.com)
 
 ## ✨ Features
 
@@ -111,7 +111,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 👤 Author
 
 - **Luka Vieira**
-- Website: [lukavieira.tech](https://lukavieira.tech)
+- Website: [lukavieira.com](https://lukavieira.com)
 
 ## 🙏 Acknowledgments
 

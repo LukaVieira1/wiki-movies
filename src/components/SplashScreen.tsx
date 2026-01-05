@@ -56,7 +56,7 @@ export default function SplashScreen({ onComplete }: SplashScreenProps) {
         className="absolute bottom-8 text-base md:text-lg"
       >
         <span className="bg-gradient-to-r from-gray-200 to-gray-400 bg-clip-text text-transparent font-medium tracking-wider hover:from-gray-100 hover:to-gray-300 transition-all duration-300">
-          lukavieira.tech
+          lukavieira.com
         </span>
       </motion.div>
 
